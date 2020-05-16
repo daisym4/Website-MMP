@@ -2,9 +2,14 @@ h1{color: #FCCECE; font-family: monospace; font-size: 32px; margin: 50 px}
 body{background: #FFFFFF; font-family: monospace; font-size: 600p;}
 p{color: #b19cd9; font-family: monospace; font-size: 20; margin: 10px; padding: 5px; border: 4px solid white; width: 1000px;}
 img{margin: 30px}
-h2{color: #aec6cf; font-family: monospace; font-size: 24px; margin: 60 px}
+h2{color: #aec6cf; font-family: monospace; font-size: 24px; margin: 60px}
 p2{color: #b19cd9; font-family: monospace; font-size: 20px}
 p3{color: #b19cd9; font-family: monospace; font-size: 16px}
-h3{color: #ffffff; font-family: monospace; font-size: 24px; margin: 20 px}
-
+h3{color: #ffffff; font-family: monospace; font-size: 24px; margin: 20px}
+p4{color: #ffffff; font-family: monospace; font-size: 15px; margin: 20px}
+h4{color: #9BB5FF ; font-family: monospace; font-size: 24px; margin: 20px}
+h5{color: #FFED9B; font-family: monospace; font-size: 24px; margin: 20px} 
+h6{color: #b19cd9; font-family: monospace; font-size: 24px; margin: 20px} 
+p5{color: #b19cd9; font-family: monospace; font-size: 18px}
+h7{color: #C71585; font-family: monospace; font-size: 22px; margin: 20px}
 <div style= "background-image:url('img_background.jpg');">
